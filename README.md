@@ -1,4 +1,4 @@
-# Anti Discrimination Licence (ADL)
+# Anti-Discrimination Licence
 
 You can view the license as a text file [here](https://github.com/TeemSucks/anti-discrimination-licence/blob/main/LICENCE)!
 
